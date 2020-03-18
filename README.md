@@ -1,4 +1,7 @@
-# plan zadan na laboratorium
+# Skiba Arkadiusz, SEM: Środa 9:40, PROJ: Czwartek 12:10
+
+**plan zadan na laboratorium**<br/>
+<br/>
 **Zadanie 1 - Core Dump**<br/> 
 a) wygenerowanie Core dumpa do wcześniej przygotowanego (wadliwego) kodu<br/>
 b) uruchomienie odpowiednim programem i analiza<br/>
